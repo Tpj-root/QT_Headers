@@ -1,0 +1,13 @@
+
+<RCC>
+    <qresource prefix="/icons">
+
+        <file alias="ad-circle_1.svg">icons/ad-circle_1.svg</file>
+        <file alias="ad-circle_2.svg">icons/ad-circle_2.svg</file>
+        <file alias="ad-circle_3.svg">icons/ad-circle_3.svg</file>
+        <file alias="ad-circle_4.svg">icons/ad-circle_4.svg</file>
+        <file alias="ad-circle_5.svg">icons/ad-circle_5.svg</file>
+        <file alias="ad-circle_6.svg">icons/ad-circle_6.svg</file>
+
+    </qresource>
+</RCC>
