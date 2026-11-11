@@ -89,6 +89,17 @@ These are particularly useful for larger applications.
 | `<QProcess>`              | Run external programs     | Python integration   |
 | `<QThreadPool>`           | Thread pool management    | Background tasks     |
 
+
+## 6_A. Bonus
+
+| Header                    | Purpose                   | Example project      |
+| ------------------------- | ------------------------- | -------------------- |
+| `<QSvgRenderer>`          | Load, render, and display SVG graphics programmatically | Trading chart icons, indicators, custom graphics |
+| `<QSettings>`             | Save and load application settings                      | User preferences                                 |
+| `<QDir>`                  | Manage directories                                      | Data folder management                           |
+
+    
+
 ## 7. Which headers should you learn first?
 
 For your Qt GUI and C++ trading application development, I recommend this learning order:
