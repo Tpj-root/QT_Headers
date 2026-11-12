@@ -187,4 +187,39 @@ I can also teach you the top 100 Qt classes with their most-used functions, argu
 
 ## install help
 
+
+```
 sudo apt install qt6-svg-dev
+sudo apt install qt6-multimedia-dev
+```
+
+
+
+
+
+## chking
+
+```
+when@master:~$ dpkg -l | grep qt6-multimedia
+ii  qt6-multimedia-dev:amd64                         6.8.2-8                                     amd64        Qt 6 Multimedia - development files
+when@master:~$ 
+
+```
+
+
+
+
+
+```
+1. Important Qt headers
+Header  Purpose
+<QCamera>   Controls webcam
+<QMediaCaptureSession>  Connects camera and video output
+<QMediaDevices> Detects available cameras
+<QVideoWidget>  Displays live camera video
+<QImageCapture> Captures photos
+<QMediaRecorder>    Records video
+<QAudioInput>   Microphone input
+<QMediaFormat>  Video/audio formats
+
+```
